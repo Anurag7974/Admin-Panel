@@ -16,4 +16,7 @@
 
 <h3 align="left">Preview</h3>
 
-![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide1.PNG)
+![img](https://github.com/Anurag7974/Admin-Panel/blob/main/assets/011.png)
+
+![img](https://github.com/Anurag7974/Admin-Panel/blob/main/assets/011.png)
+
