@@ -18,5 +18,5 @@
 
 ![img](https://github.com/Anurag7974/Admin-Panel/blob/main/assets/011.png)
 
-![img](https://github.com/Anurag7974/Admin-Panel/blob/main/assets/011.png)
+![img](https://github.com/Anurag7974/Admin-Panel/blob/main/assets/022.png)
 
